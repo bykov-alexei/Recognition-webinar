@@ -21,4 +21,5 @@ You better choose version 3.6.9, all examples were tested on it.
 > pip3 install opencv-python matplotlib face_recognition
 ### Any system
 3. Install any IDE suitable for Python like PyCharm(https://www.jetbrains.com/ru-ru/pycharm/) or some source-code editor like VisualStudioCode(https://code.visualstudio.com/). But you should consider that if you install source-code editor you are to run the scripts with terminal.
+4. Prepare some video you will run tests on.
 # See you this Sunday at 21.00 
