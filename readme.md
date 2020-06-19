@@ -2,8 +2,12 @@
 If you want to be able to run examples during the webinar, please, follow pre-webinar installation instructions.
 # Requirements
 1. Zoom program installed
-2. Basic programming
-3. Basic Python3 (preferable)
+2. Knowing basic programming
+3. Knowing basic Python3 (preferable)
+# Topics we will discuss
+1. What is the task of facial recognition?
+2. What are the solutions and small comparison of them?
+3. How to write own simple python3 solution using prepared modules?
 # Pre-webinar instructions
 ## Python configuration
 ### Windows
